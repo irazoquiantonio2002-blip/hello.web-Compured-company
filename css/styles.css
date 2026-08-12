@@ -1321,6 +1321,16 @@ footer {
   .footer-links {
     grid-template-columns: 1fr;
   }
+  #contacto {
+    padding-bottom: 116px;
+  }
+  .wa-btn {
+    right: 14px;
+    bottom: 14px;
+    width: 52px;
+    height: 52px;
+    font-size: 23px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
