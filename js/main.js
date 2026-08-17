@@ -112,7 +112,7 @@
       `Detalle: ${msg.value.trim()}`
     ].join("\n");
 
-    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank", "noopener,noreferrer");
+    window.open(`https://wa.me/525560161210?text=${encodeURIComponent(text)}`, "_blank", "noopener,noreferrer");
   });
 
   if (canvas) {
